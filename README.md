@@ -6,7 +6,7 @@ An experiment to test different state of the art image super resolution models u
 - 91 Image Dataset Decomposed: https://github.com/yjn870/SRCNN-pytorch
 - 91 Image Dataset Raw: https://www.kaggle.com/datasets/ll01dm/t91-image-dataset
 - 91 Image Dataset Decomposed (FSRCNN): https://github.com/yjn870/FSRCNN-pytorch
-## Code Repositories we Wish To Cite. We may have utilized some ideas/code from here:
+## Cited Code Repositories:
 - https://github.com/yjn870/SRCNN-pytorch
 - https://github.com/yjn870/FSRCNN-pytorch
 - https://github.com/Lornatang/VDSR-PyTorch/blob/master/model.py
