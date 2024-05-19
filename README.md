@@ -16,7 +16,7 @@ An experiment to test different state of the art image super resolution models u
 # Contributions
 This repository contains a set of files which represents our attempt at testing and experimenting with image super
 resolution models. In this repository we have 7 notebooks in total and we wish to outline what each of the notebooks
-represent.
+represent. The raw 91 image dataset lives in a folder called train in this repository.
 
 ## Our Contribution
 The notebooks FR, SRCNN and VDSR all represent state of the art models which have trained on the 91 Image Dataset Raw.
